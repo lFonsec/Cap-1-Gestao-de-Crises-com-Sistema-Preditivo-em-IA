@@ -8,8 +8,7 @@ git clone https://github.com/seu-usuario/projeto-pico-risco.git
 cd projeto-pico-risco
 
 # Execução do Sistema
-Abra o arquivo Cap_1_Gestao_de_Crises_com_Sistema_Preditivo_em_IA.ipynb no google collab
-
+Abra o arquivo Cap_1_Gestao_de_Crises_com_Sistema_Preditivo_em_IA.ipynb no [Google Colab](https://colab.research.google.com/)
 # Fluxo do Sistema
 * Primeiro tem a entrada dos dados do paciente
 * Depois o agente orquestrador aciona o analista de risco
