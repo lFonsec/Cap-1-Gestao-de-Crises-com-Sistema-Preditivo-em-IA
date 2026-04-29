@@ -1,0 +1,1 @@
+# Cap-1-Gestao-de-Crises-com-Sistema-Preditivo-em-IA
