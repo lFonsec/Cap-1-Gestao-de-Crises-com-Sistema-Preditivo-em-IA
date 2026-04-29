@@ -11,14 +11,14 @@ cd projeto-pico-risco
 Abra o arquivo Cap_1_Gestao_de_Crises_com_Sistema_Preditivo_em_IA.ipynb no google collab
 
 # Fluxo do Sistema
-Entrada dos dados do paciente
-Agente Orquestrador aciona o Analista de Risco
-O modelo retorna a probabilidade de pico de risco
-O resultado é enviado ao Agente de Protocolos
-O sistema retorna:
-Probabilidade de risco
-Classificação (Baixo / Médio / Alto)
-Protocolo sugerido
+-Entrada dos dados do paciente
+-Agente Orquestrador aciona o Analista de Risco
+-O modelo retorna a probabilidade de pico de risco
+-O resultado é enviado ao Agente de Protocolos
+-O sistema retorna:
+-Probabilidade de risco
+-Classificação (Baixo / Médio / Alto)
+-Protocolo sugerido
 
 # Exemplo de Entrada
 {
